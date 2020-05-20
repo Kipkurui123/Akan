@@ -1,23 +1,8 @@
 body {
-  background-image: url(https://bit.ly/2OTkQBh);
+  background-image: url(https://images.app.goo.gl/qVnsm8K5VSLtJj9j9);
   background-size:cover;
   background-repeat: no-repeat;
   font-weight: bolder;
-}
-h1 {
-  text-align: center;
-  font-weight: 900;
-  text-decoration-line: underline;
-  color: dodgerblue;
-}
-h2 {
-  text-align: center;
-  font-weight: 700;
-  text-decoration-line: underline;
-  color: dodgerblue;
-}
-p{
-  color: rgb(14, 255, 255);
 }
 .jumbotron{
   background-image: url(https://bit.ly/2OTkQBh);
@@ -26,7 +11,28 @@ p{
   text-align: center;
   color: aqua;
 }
-h3{
+h5{
+  text-decoration: underline;
+  text-align: center;
+  font-style: italic;
+  color: #EB10C6
+}
+h1 {
+  text-align: center;
+  font-weight: 900;
+  text-decoration-line: underline;
+  color: #BD25C4;
+}
+h2 {
+  text-align: right;
+  font-weight: 700;
   text-decoration-line: underline;
   color: dodgerblue;
+}
+h3{
+  text-decoration-line: underline;
+  color: skyblue;
+}
+p{
+  color: rgb(14, 255, 255);
 }
